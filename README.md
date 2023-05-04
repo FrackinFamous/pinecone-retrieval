@@ -1,3 +1,3 @@
 # pinecone-retrieval
 
-A Cookie Monster project developed by FrackinFamous from FrackinLabs.
+A Pinecone Retrieval project developed by FrackinFamous from FrackinLabs.
